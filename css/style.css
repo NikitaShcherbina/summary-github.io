@@ -1,0 +1,92 @@
+.o-grid--gallery .marmelad h3 {
+  font-family: "OpenSans-ExtraBold";
+}
+.o-grid--gallery .marmelad h3 span {
+  color: #a689b7;
+}
+.talisant h3 {
+  color: #fdd97c !important;
+  text-transform: uppercase !important;
+}
+.o-grid--gallery .boss h3 {
+  font-family: "ImpactRegular";
+  font-weight: 100;
+  letter-spacing: 0.05em;
+  will-change: contents;
+}
+.o-grid--gallery .boss h3 span {
+  color: #be9259;
+}
+.o-grid--gallery .usi h3 {
+  font-family: "NeSkid-Comica";
+  text-transform: none;
+  letter-spacing: 0.1em;
+}
+.o-grid--gallery .usi h3 span:nth-child(1) {
+  color: #c6283c;
+}
+.o-grid--gallery .usi h3 span:nth-child(2) {
+  color: #3e7a89;
+}
+.o-grid--gallery .usi h3 span {
+  font-size: 1.5rem;
+}
+.o-grid--gallery .agency h3 {
+  font-family: "OpenSans-ExtraBold";
+  text-transform: none;
+}
+.o-grid--gallery .agency h3 span {
+  color: #f74c00;
+}
+.o-grid--gallery .bit h3 {
+  font-family: "Montserrat-Light";
+  color: #1c85bb;
+  text-transform: none;
+}
+.o-grid--gallery .bit h3 span {
+  font-family: "Montserrat-ExtraBold";
+}
+.o-grid--gallery .brave h3 {
+  font-family: "Montserrat-Black";
+  color: #000;
+  -webkit-text-stroke: 1px #fff;
+  text-transform: uppercase;
+}
+.o-grid--gallery .brave h3 span {
+  color: #fff;
+  -webkit-text-stroke: 1px #000;
+  margin-right: 2px;
+}
+.o-grid--gallery .proof h3 {
+  font-family: "ImpactRegular";
+  color: #fff;
+  text-transform: none;
+  font-weight: 100;
+  letter-spacing: 0.1em;
+}
+.o-grid--gallery .borz h3 {
+  font-family: "Montserrat-ExtraBold";
+  text-transform: none;
+  letter-spacing: 0.2em;
+  color: #d4bb55;
+}
+.o-grid--gallery .borz h3 span {
+  color: #fff;
+}
+
+.c-image-overlay:hover .c-image-overlay__content {
+  height: 100%;
+  background: rgba(0, 0, 0, 0.6);
+  min-width: 100%;
+}
+
+.fancybox-content {
+  width: 100% !important;
+  height: 100% !important;
+}
+
+.fancybox-slide {
+  overflow: hidden;
+}
+
+/*# sourceMappingURL=style.css.map */

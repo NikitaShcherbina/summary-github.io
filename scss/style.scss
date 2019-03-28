@@ -1,0 +1,97 @@
+.o-grid--gallery {
+	.marmelad {
+		h3 {
+			font-family: 'OpenSans-ExtraBold';
+			span {
+				color: #a689b7;
+			}
+		}
+	}
+	.boss {
+		h3 {
+			font-family: 'ImpactRegular';
+			font-weight: 100;
+			letter-spacing: 0.05em;
+			will-change: contents;
+			span {
+				color: #be9259;
+			}
+		}
+	}
+	.usi {
+		h3 {
+			font-family: "NeSkid-Comica";
+			text-transform: none;
+			letter-spacing: 0.1em;
+			span:nth-child(1) {
+				color: #c6283c;
+			}
+			span:nth-child(2) {
+				color: #3e7a89;
+			}
+			span {
+				font-size: 1.5rem;
+			}
+		}
+	}
+	.agency {
+		h3 {
+			font-family: 'OpenSans-ExtraBold';
+			text-transform: none;
+			span {
+				color: #f74c00;
+			}
+		}
+	}
+	.bit {
+		h3 {
+			font-family: 'Montserrat-Light';
+			color: #1c85bb;
+			text-transform: none;
+			span {
+				font-family: 'Montserrat-ExtraBold';
+			}
+		}
+	}
+	.brave {
+		h3 {
+			font-family: 'Montserrat-Black';
+			color: #000;
+    		-webkit-text-stroke: 1px #fff;
+    		text-transform: uppercase;
+			span {
+				color: #fff;
+				-webkit-text-stroke: 1px #000;
+				margin-right: 2px;
+			}
+		}
+	}
+	.proof {
+		h3 {
+			font-family: "ImpactRegular";
+			color: #fff;
+			text-transform: none;
+			font-weight: 100;
+			letter-spacing: 0.1em;
+		}
+	}
+	.borz {
+		h3 {
+			font-family: 'Montserrat-ExtraBold';
+			text-transform: none;
+			letter-spacing: 0.2em;
+			color: #d4bb55;
+			span {
+				color: #fff;
+			}
+		}
+	}
+}
+.c-image-overlay:hover .c-image-overlay__content {
+	height: 100%;
+	background: rgba(0,0,0, 0.6);
+	min-width: 100%;
+}
+.fancybox-content {
+	width: 100% !important;
+}
